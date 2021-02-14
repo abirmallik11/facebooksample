@@ -1,0 +1,255 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma;
+    
+    
+}
+
+/* ========= section 1 starts ========= */
+#section1
+{
+    
+    background-image:linear-gradient(to top, #3B5998, #4A66A0);
+    width: 100%;
+    height: 85px;
+}
+.heading
+{
+    height: fit-content;
+    width: 50%;
+    color: #FFFFFF;
+    float: left;
+    margin-left: 180px;
+    margin-top: 25px;
+    font-size: 26px;
+       
+}
+.heading h1 a
+{
+    text-decoration: none;
+    color:white;
+}
+
+.login
+{
+    width: 50%;
+    height: fit-content;
+}
+.email
+{
+    position: absolute;
+    top: 20px;
+    left: 58%;
+    margin-bottom: 7px;
+    color: white;
+}
+.password
+{
+    position: absolute;
+    top: 20px;
+    left: 72%;
+    margin-bottom: 7px;
+    color: white;
+}
+.size
+{
+    width: 85%;
+    height: 21px;
+    border: 1px solid black;
+}
+.forget
+{
+    position: absolute;
+    top: 60px;
+    left: 72%;
+}
+.forget a
+{
+    text-decoration: none;
+    color: white;
+}
+.forget a:hover
+{
+    text-decoration: underline;
+}
+
+.loginbtn
+{
+    color: white;
+    background-color: #4774c7;
+    border: 1px solid black;
+    position: absolute;
+    top: 34px;
+    left: 85%;
+    padding: 4px 5px;
+}
+.loginbtn:hover
+{
+    background-color: #3B5998;
+}
+
+/* ========Section 1 ends =========== */
+
+/* ========= section 2 start =============  */
+
+#section2
+{
+    background-color: #E9EBEE;
+}
+.creating
+{
+    background-color: #E9EBEE;
+    width: 100%;
+    height: 350px;
+}
+.box
+{
+    box-sizing: border-box;
+    width: 40%;
+    height: 160px;
+    border: 1px solid #CCCCCC;
+    position: relative;
+    top: 80px;
+    left: 28%;
+    background-color: white;
+    padding: 5px;
+}
+.box h3
+{
+    padding: 10px;
+}
+.line1
+{
+    width: 95%;
+    height: 1px;
+    background-color: #CCCCCC;
+    margin-bottom: 5px;
+    margin-left: 12px;
+}
+.para1
+{
+    font-size: 15px;
+    padding-inline: 10%;
+    padding-top: 8px;
+}
+.phone
+{
+    width: 55%;
+    font-size: 15px;
+    margin-left: 10%;
+    margin-top: 8px;
+    height: 25px;
+}
+
+.box2
+{
+    box-sizing: border-box;
+    width: 40%;
+    height: 45px;
+    border: 1px solid #CCCCCC;
+    position: relative;
+    top: 78px;
+    left: 28%;
+    background-color: #F2F2F2;
+    padding: 12px 0px;
+}
+.searchbtn
+{
+    margin-left: 75%;
+    width: 60px;
+    height: 25px;
+    background-color: #3b61a7;
+    border: 1px solid #365899;
+    border-radius: 2px;
+    color: white;
+}
+.searchbtn:hover
+{
+    background-color: #365899;
+}
+.cancelbtn
+{
+    width: 60px;
+    height: 24px;
+}
+
+/* ============= section 2 end ==========  */
+
+/* ========= section 3 start =============  */
+#section3
+{
+    background-color: white;
+    margin-top: 170px;
+}
+.language
+{
+    margin-top: 80px;
+    width: 70%;
+    margin-left: 17%;
+    background: white;
+    margin-bottom: 10px;
+}
+.language ul
+{
+    display: inline-block;
+    
+}
+.language ul li
+{
+    display: inline-block;
+    font-size: 12px;
+    color: #385898;
+    margin-inline: 8px;
+}
+.language ul li a:hover
+{
+    text-decoration: underline;
+}
+.language ul li a
+{
+    text-decoration: none;
+    
+}
+.line
+{
+    width: 66%;
+    margin-left: 17.5%;
+    height: 1px;
+    background-color: #90949C;
+    margin-bottom: 10px;
+}
+.others
+{
+    width: 70%;
+    margin-left: 17%;
+    float: left;
+    background-color: white;
+}
+.others ul
+{
+    display: inline-block;
+    font-size: 12px;
+}
+.others ul li
+{
+    display: inline-block;
+    font-size: 12px;
+    color: #385898;
+    margin: 5px 10px;
+}
+.others ul li a
+{
+    text-decoration: none;
+}
+.others ul li:hover
+{
+    text-decoration: underline;
+}
+.others h6
+{
+    margin-left: 1%;
+    color: #90949C;
+    margin-bottom: 30px;
+}

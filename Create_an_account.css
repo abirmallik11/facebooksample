@@ -1,0 +1,270 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma;
+    
+}
+
+/* ========= section 1 starts ========= */
+#section1
+{
+    
+    background-image:linear-gradient(to top, #3B5998, #4A66A0);
+    width: 100%;
+    height: 85px;
+}
+.heading
+{
+    height: fit-content;
+    width: 50%;
+    color: #FFFFFF;
+    float: left;
+    margin-left: 180px;
+    margin-top: 25px;
+    font-size: 26px;
+       
+}
+.heading h1 a
+{
+    text-decoration: none;
+    color:white;
+}
+
+.login
+{
+    width: 50%;
+    height: fit-content;
+}
+.email
+{
+    position: absolute;
+    top: 20px;
+    left: 58%;
+    margin-bottom: 7px;
+    color: white;
+}
+.password
+{
+    position: absolute;
+    top: 20px;
+    left: 72%;
+    margin-bottom: 7px;
+    color: white;
+}
+.size
+{
+    width: 85%;
+    height: 21px;
+    border: 1px solid black;
+}
+.forget
+{
+    position: absolute;
+    top: 60px;
+    left: 72%;
+}
+.forget a
+{
+    text-decoration: none;
+    color: white;
+}
+.forget a:hover
+{
+    text-decoration: underline;
+}
+
+.loginbtn
+{
+    color: white;
+    background-color: #4774c7;
+    border: 1px solid black;
+    position: absolute;
+    top: 34px;
+    left: 85%;
+    padding: 4px 5px;
+}
+.loginbtn:hover
+{
+    background-color: #3B5998;
+}
+
+/* ========Section 1 ends =========== */
+
+/* ===========section 2 starts ========== */
+
+#section2
+{
+    background-color: #EBEDF0;
+    width: 100%;
+    height: 560px;
+}
+.creating
+{
+    margin-inline-start: 35%;
+    margin-inline-end: 30%;
+    padding-top: 20px;
+}
+.text
+{
+    text-align: left;
+    font-size: 25px;
+}
+.text h1
+{
+    color: #1D2129;
+    font-weight: bold;
+}
+.text h4
+{
+    
+    margin-top: 10px;
+    color: #4B4F56;
+    font-weight: normal;
+}
+.name
+{
+    width: 41%;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid #BDC7D8;
+    font-size: large;
+    padding-left: 6px;
+    
+}
+.loginfo
+{
+    width: 84%;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid #BDC7D8;
+    font-size: large;
+    padding-left: 6px;
+}
+.margin
+{
+    margin: 3.5px 0px;
+}
+
+.gender
+{
+    margin-top: 8px;
+    margin-left: 5px;
+    font-size: 20px;
+}
+.heading4
+{
+    color: #90949C;
+    margin: 15px 0px;
+}
+.para
+{
+    color: #90949C;
+    font-size: x-small;
+    margin-inline-end: 40%;
+    font-size: 11px;
+}
+.para a
+{
+    text-decoration: none;
+    color: #385898;
+}
+.para a:hover
+{
+    text-decoration: underline;
+}
+.submit
+{
+    background-color: #619b4b;
+    margin-top: 15px;
+    width: 33%;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+.submit:hover
+{
+    background-image:linear-gradient(to top, #5C8F47, #7BBD65);
+}
+.select
+{
+    margin-left: -5px;
+}
+.radio
+{
+    margin: 0px 7px;
+}
+    /*============ section 2 ends ======== */
+
+.language
+{
+    margin-top: 80px;
+    width: 70%;
+    margin-left: 17%;
+    background: white;
+    margin-bottom: 10px;
+}
+.language ul
+{
+    display: inline-block;
+    
+}
+.language ul li
+{
+    display: inline-block;
+    font-size: 12px;
+    color: #385898;
+    margin-inline: 8px;
+}
+.language ul li a:hover
+{
+    text-decoration: underline;
+}
+.language ul li a
+{
+    text-decoration: none;
+    
+}
+.line
+{
+    width: 66%;
+    margin-left: 17.5%;
+    height: 1px;
+    background-color: #90949C;
+    margin-bottom: 10px;
+}
+.others
+{
+    width: 70%;
+    margin-left: 17%;
+    float: left;
+}
+.others ul
+{
+    display: inline-block;
+    font-size: 12px;
+}
+.others ul li
+{
+    display: inline-block;
+    font-size: 12px;
+    color: #385898;
+    margin: 5px 10px;
+}
+.others ul li a
+{
+    text-decoration: none;
+}
+.others ul li:hover
+{
+    text-decoration: underline;
+}
+.others h6
+{
+    margin-left: 1%;
+    color: #90949C;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,202 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.heading1
+{
+    color: #1877F2;
+    font-size: 28px;
+    position: absolute;
+    top: 60px;
+    left: 42.5%;
+}
+
+.box
+{
+    width: 396px;
+    height: 350px;
+    margin-top: 120px;
+    margin-inline: 34.5%;
+    padding-left: 14px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px;
+}
+.box h1
+{
+    text-align: center;
+    font-weight: normal;
+    padding: 10px 0px;
+}
+.email
+{
+    width: 95%;
+    height: 50px;
+    font-size: 15px;
+    padding: 0px 8px;
+    border: 1px solid #BDC7D8;
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
+.password
+{
+    width: 95%;
+    height: 50px;
+    font-size: 15px;
+    padding: 0px 8px;
+    border: 1px solid #BDC7D8;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.loginbtn
+{
+    color: white;
+    width: 95%;
+    height: 50px;
+    font-size: 15px;
+    padding: 0px 8px;
+    border: 1px solid #BDC7D8;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    background-color: #1877F2;
+    font-weight: bold;
+    font-size: 20px;
+}
+.forget
+{
+    text-align: center;
+    
+    font-size: 15px;
+    margin-bottom: 10ox;
+}
+
+.forget a
+{
+    color: #1877F2;
+    text-decoration: none;
+}
+.forget a:hover
+{
+    text-decoration: underline;
+}
+p
+{
+    text-align: center;
+}
+.before
+{
+    position: absolute;
+    top: 382px;
+    width: 12%;
+    height: 1px;
+    background-color: #D7DADE;
+}
+.after
+{
+    position: absolute;
+    top: 382px;
+    width: 11%;
+    height: 1px;
+    background-color: #D7DADE;
+    margin-left: 16%;
+}
+.signup
+{
+    text-align: center;
+    margin-left: 26%;
+    margin-top: 15px;
+    background-color: #3db825;
+    width: 47%;
+    box-sizing: border-box;
+    height: 40px;
+    border-radius: 6px;
+    padding-top: 7px;
+}
+.signup a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+.signup:hover
+{
+    background-color: #36A420;
+}
+
+
+.language
+{
+    margin-top: 80px;
+    width: 70%;
+    margin-left: 17%;
+    
+    margin-bottom: 10px;
+}
+.language ul
+{
+    display: inline-block;
+    
+}
+.language ul li
+{
+    display: inline-block;
+    font-size: 12px;
+    color: #8A8D91;
+    margin-inline: 8px;
+}
+.language ul li a:hover
+{
+    text-decoration: underline;
+}
+.language ul li a
+{
+    text-decoration: none;
+    color: #8A8D91;
+    
+}
+.line
+{
+    width: 66%;
+    margin-left: 17.5%;
+    height: 1px;
+    background-color: #90949C;
+    margin-bottom: 10px;
+}
+.others
+{
+    width: 70%;
+    margin-left: 17%;
+    float: left;
+}
+.others ul
+{
+    display: inline-block;
+    font-size: 12px;
+}
+.others ul li
+{
+    display: inline-block;
+    font-size: 12px;
+    
+    margin: 5px 10px;
+}
+.others ul li a
+{
+    color: #8A8D91;
+    text-decoration: none;
+}
+.others ul li:hover
+{
+    text-decoration: underline;
+}
+.others h6
+{
+    margin-left: 1%;
+    color: #90949C;
+    margin-bottom: 30px;
+}
